@@ -1,0 +1,112 @@
+
+@font-face {
+  font-family: 'CustomFont'; /* Replace with your desired font family name */
+  src: url('./me_quran_volt_newmet.ttf') format('truetype'); 
+  /* src: url('./ScheherazadeRegOT.ttf') format('truetype');  */
+}
+
+.top-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 10px;
+}
+.top-title {
+  text-align: center;
+  flex-grow: 1;
+  margin: 0;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin: 1px;
+  padding: 1px;
+  border: 2px solid #ccc;
+  background-color: white;
+}
+
+.movie-content {
+  display: flex;
+  align-items: top;
+  justify-content: space-between;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  margin-top: 1px;
+}
+
+.title-box
+{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: right;
+  text-align: right;
+  padding: 1px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+	padding: 1px;
+	margin: 1px;
+  font-size: 44px;
+  font-family: 'CustomFont'
+}
+
+.type1
+{
+	border-color: #E76F51;
+	background-color: rgba(231, 111, 81, 0.1); 
+}
+
+.type2
+{
+	border-color: #00B353;
+	background-color: rgba(0, 179, 83, 0.1); 
+}
+
+.color-button {
+  width: 60px; /* Set the desired width */
+  height: 30px; /* Set the desired height */
+  margin: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.red-button {
+  background-color: red;
+  /* background-color: rgba(6, 74, 13, 0.7); */
+}
+
+
+.green-button {
+  background-color: green;
+}
+.gray-button {
+  background-color: gray;
+}
+
+.finish-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.Error {
+  color: red;
+}
