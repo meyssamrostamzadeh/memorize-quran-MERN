@@ -10,7 +10,7 @@ import api from "../services/api";
 import "./App.css";
 
 let current_sura = 2;
-let current_part = 1;
+let current_part = 35;
 
 function App() {
   const moviesEndpoint = "/movies";
