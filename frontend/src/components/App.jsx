@@ -9,8 +9,34 @@ import React, { useState, useEffect, useRef } from "react";
 import api from "../services/api";
 import "./App.css";
 
-let current_sura = 2;
-let current_part = 35;
+//2
+//let current_sura = 2;
+//let current_part = 24;
+//3
+//let current_sura = 3;
+//let current_part = 7;
+//4
+let current_sura = 4;
+let current_part = 1;
+//5
+//let current_sura = 5;
+//let current_part = 1;
+//6
+//let current_sura = 6;
+//let current_part = 1;
+//7
+//let current_sura = 7;
+//let current_part = 1;
+//8
+//let current_sura = 8;
+//let current_part = 1;
+//9
+//let current_sura = 9;
+//let current_part = 1;
+//27
+//let current_sura = 27;
+//let current_part = 1;
+
 
 function App() {
   const moviesEndpoint = "/movies";
