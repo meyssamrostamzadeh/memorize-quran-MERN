@@ -11,13 +11,13 @@ import "./App.css";
 
 //2
 //let current_sura = 2;
-//let current_part = 24;
+//let current_part = 23;
 //3
 //let current_sura = 3;
 //let current_part = 7;
 //4
-let current_sura = 4;
-let current_part = 1;
+//let current_sura = 4;
+//let current_part = 1;
 //5
 //let current_sura = 5;
 //let current_part = 1;
@@ -34,8 +34,8 @@ let current_part = 1;
 //let current_sura = 9;
 //let current_part = 1;
 //27
-//let current_sura = 27;
-//let current_part = 1;
+let current_sura = 27;
+let current_part = 1;
 
 
 function App() {
