@@ -10,8 +10,8 @@ import api from "../services/api";
 import "./App.css";
 
 //2
-//let current_sura = 2;
-//let current_part = 23;
+let current_sura = 2;
+let current_part = 23;
 //3
 //let current_sura = 3;
 //let current_part = 7;
@@ -34,8 +34,8 @@ import "./App.css";
 //let current_sura = 9;
 //let current_part = 1;
 //27
-let current_sura = 27;
-let current_part = 1;
+// let current_sura = 27;
+// let current_part = 14;
 
 
 function App() {
