@@ -11,31 +11,32 @@ import "./App.css";
 
 //2
 let current_sura = 2;
-let current_part = 23;
+let current_part = 45; //68
 //3
-//let current_sura = 3;
-//let current_part = 7;
+// let current_sura = 3;
+// let current_part = 34; //41
 //4
-//let current_sura = 4;
-//let current_part = 1;
-//5
-//let current_sura = 5;
-//let current_part = 1;
-//6
-//let current_sura = 6;
-//let current_part = 1;
-//7
-//let current_sura = 7;
-//let current_part = 1;
-//8
-//let current_sura = 8;
-//let current_part = 1;
-//9
-//let current_sura = 9;
-//let current_part = 1;
+// let current_sura = 4;
+// let current_part = 1; //35
 //27
 // let current_sura = 27;
-// let current_part = 14;
+// let current_part = 54; //161
+//5
+//let current_sura = 5;
+//let current_part = 1; //22
+//6
+//let current_sura = 6;
+//let current_part = 1; //25
+//7
+//let current_sura = 7;
+//let current_part = 1; //34
+//8
+//let current_sura = 8;
+//let current_part = 1; //12
+//9
+//let current_sura = 9;
+//let current_part = 1; //22
+
 
 
 function App() {
